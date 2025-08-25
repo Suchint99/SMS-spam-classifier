@@ -1,3 +1,5 @@
+How to run it install the files and run the spam_dataset_nagendra.ipynb file.
+Then input the messege "hello" or any word you can choose.
 This project is a Spam SMS Classification System built using Natural Language Processing (NLP) and Machine Learning. It takes raw SMS text messages, processes them with advanced text-cleaning techniques, and classifies each message as either Spam (unwanted/advertising) or Ham (legitimate).
 The project uses datasets in both .txt (sms.txt) and .xlsx (Example_NLP.xlsx) formats. The core implementation is in the Jupyter Notebook (spam_dataset_nagendra.ipynb), where different ML models are trained, tested, and compared.
 
